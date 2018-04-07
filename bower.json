@@ -1,0 +1,20 @@
+{
+  "name": "abtsummit",
+  "authors": [
+    "themelogy <ismailsagsoz@gmail.com>"
+  ],
+  "description": "ABT Summit Theme",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
