@@ -17,7 +17,7 @@
         <!-- HEADER INNER -->
         <div class="header clearfix">
 
-            <a href="{{ url(locale()) }}" class="logo"><img src="{{ Theme::url('images/logo.png') }}" alt=""></a>
+            <a href="{{ url(locale()) }}" class="logo"><img src="{{ Theme::url('images/logo/logo.svg') }}" alt="{{ setting('theme::company-name') }}"></a>
 
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-nav" aria-expanded="false">
                 <span class="sr-only">Toggle navigation</span>

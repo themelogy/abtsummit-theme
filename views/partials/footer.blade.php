@@ -3,7 +3,7 @@
         <div class="footer-top clearfix">
             <div class="row">
                 <div class="col-md-3 col-sm-3">
-                    <div class="footer-logo animate fadeInLeft"><a href="{{ url(locale()) }}"><img src="{{ Theme::url('images/footer-logo.png') }}" alt=""></a></div>
+                    <div class="footer-logo animate fadeInLeft"><a href="{{ url(locale()) }}"><img src="{{ Theme::url('images/logo/logo.svg') }}" alt="{{ setting('theme::company-name') }}" style="filter: grayscale(100%); opacity: 0.6; padding: 10px;"></a></div>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     <p>{!! trans('themes::theme.footer.intro') !!}</p>

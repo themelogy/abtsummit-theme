@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 {!! seo_helper()->render() !!}
-<link rel="icon" type="image/png" href="{{ Theme::url('images/favicon.ico') }}">
+<link rel="icon" type="image/png" href="{{ Theme::url('images/logo/favicon.png') }}">
 
 <link href="{{ elixir('css/advisor.css', 'themes/securus') }}" rel="stylesheet" type="text/css"/>
 
