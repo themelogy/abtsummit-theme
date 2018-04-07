@@ -5,7 +5,7 @@
 {!! seo_helper()->render() !!}
 <link rel="icon" type="image/png" href="{{ Theme::url('images/logo/favicon.png') }}">
 
-<link href="{{ elixir('css/advisor.css', 'themes/securus') }}" rel="stylesheet" type="text/css"/>
+<link href="{{ elixir('css/advisor.css', 'themes/abtsummit') }}" rel="stylesheet" type="text/css"/>
 
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

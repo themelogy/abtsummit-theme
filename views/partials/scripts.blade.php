@@ -23,7 +23,7 @@
     s.parentNode.insertBefore(wf, s);
   })(); </script>
 
-<script src="{{ elixir('js/all.js', 'themes/securus') }}"></script>
+<script src="{{ elixir('js/all.js', 'themes/abtsummit') }}"></script>
 
 @stack('scripts')
 @stack('js_inline')
